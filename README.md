@@ -44,18 +44,18 @@ The CNN model consists of:
 ---
 ## Training Process 
 Optimizer: Adam  
-Loss Function: SparseCategoricalCrossentropy  
-Performance Metrics: Accuracy  
-Batch Size: 32  
-Epochs: 10+  
+**Loss Function:** SparseCategoricalCrossentropy  
+**Performance Metrics:** Accuracy  
+**Batch Size:** 32  
+**Epochs:** 10+  
 Training on Google Colab T4 GPU for faster convergence  
 
 ---
 ## Results
 The model has the following Results  
-Training Accuracy: 96.22%  
-Validation Accuracy: 88.7%  
-Testing ccuracy: 84.7%  
+**Training Accuracy:** 96.22%  
+**Validation Accuracy:** 88.7%  
+**Testing Accuracy:** 84.7%  
 
 ---
 ## Accuracy and Loss Curves 
@@ -64,14 +64,14 @@ Testing ccuracy: 84.7%
 
 ## Installation & Usage
 **1. Clone the Repository**  
-  -git clone https://github.com/your-username/Brain-Tumor-Classification.git  
-  -cd Brain-Tumor-Classification  
+  git clone https://github.com/your-username/Brain-Tumor-Classification.git  
+  cd Brain-Tumor-Classification  
 **2. Install Dependencies**  
-  -pip install -r requirements.txt  
+  pip install -r requirements.txt  
 **3. Train the Model**  
-  -python train.py  
+  python train.py  
 **4. Evaluate the Model**  
-  -python evaluate.py  
+  python evaluate.py  
 
 
 
