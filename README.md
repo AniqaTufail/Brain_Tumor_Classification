@@ -65,13 +65,21 @@ The model has the following Results
 
 ## Installation & Usage
 **1. Clone the Repository**  
+
 `git clone https://github.com/your-username/Brain-Tumor-Classification.git`  
+
 `cd Brain-Tumor-Classification`  
+
 **2. Install Dependencies**  
+
 `pip install -r requirements.txt`  
+
 **3. Train the Model**  
+
 `python train.py`  
+
 **4. Evaluate the Model**  
+
 `python evaluate.py`  
 
 
