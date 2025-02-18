@@ -5,9 +5,9 @@ This project implements a **Convolutional Neural Network (CNN)** model for **Bra
 ---
 
 ## Dataset
-Below is the link of Kaggle Dataset used in this project
+Below is the link of Kaggle Dataset used in this project  
 
--https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 ##  Features
 -  **Deep Learning Model**: CNN-based classifier built with TensorFlow/Keras
@@ -43,19 +43,19 @@ The CNN model consists of:
 
 ---
 ## Training Process 
--Optimizer: Adam
--Loss Function: SparseCategoricalCrossentropy
--Performance Metrics: Accuracy
--Batch Size: 32
--Epochs: 10+
--Training on Google Colab T4 GPU for faster convergence
+-Optimizer: Adam  
+-Loss Function: SparseCategoricalCrossentropy  
+-Performance Metrics: Accuracy  
+-Batch Size: 32  
+-Epochs: 10+  
+-Training on Google Colab T4 GPU for faster convergence  
 
 ---
 ## Results
-The model has the following Results
--Training Accuracy: 96.22%
--Validation Accuracy: 88.7%
--Testing ccuracy: 84.7%
+The model has the following Results  
+-Training Accuracy: 96.22%  
+-Validation Accuracy: 88.7%  
+-Testing ccuracy: 84.7%  
 
 ---
 ## Accuracy and Loss Curves 
@@ -63,15 +63,15 @@ The model has the following Results
 ![image](https://github.com/user-attachments/assets/40cc58c0-3852-4fb4-b5cf-f525e3b8bc8c)
 
 ## Installation & Usage
--**1. Clone the Repository**
-  -git clone https://github.com/your-username/Brain-Tumor-Classification.git
-  -cd Brain-Tumor-Classification
--**2. Install Dependencies**
-  -pip install -r requirements.txt
--**3. Train the Model**
-  -python train.py
--**4. Evaluate the Model**
-  -python evaluate.py
+-**1. Clone the Repository**  
+  -git clone https://github.com/your-username/Brain-Tumor-Classification.git  
+  -cd Brain-Tumor-Classification  
+-**2. Install Dependencies**  
+  -pip install -r requirements.txt  
+-**3. Train the Model**  
+  -python train.py  
+-**4. Evaluate the Model**  
+  -python evaluate.py  
 
 
 
