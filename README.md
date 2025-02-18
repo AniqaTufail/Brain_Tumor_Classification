@@ -60,6 +60,7 @@ The model has the following Results
 ---
 ## Accuracy and Loss Curves 
 ![image](https://github.com/user-attachments/assets/c2f0e6b3-1312-4f37-aa1a-d52e58b9feed)
+
 ![image](https://github.com/user-attachments/assets/40cc58c0-3852-4fb4-b5cf-f525e3b8bc8c)
 
 ## Installation & Usage
